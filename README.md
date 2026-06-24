@@ -8,15 +8,15 @@ Portafolio práctico de ciberseguridad enfocado en seguridad defensiva, monitore
 
 # Acerca de mí
 
-Profesional TI con más de 15 años de experiencia en infraestructura, redes, soporte técnico y administración de sistemas, con experiencia práctica en operaciones SOC, administración SIEM, monitoreo de seguridad y análisis de eventos en entornos Windows y Linux.
+Profesional TI con más de 15 años de experiencia en infraestructura, redes, soporte técnico y administración de sistemas.
 
-Experiencia en implementación y administración de plataformas SIEM con Wazuh, IDS/IPS con Suricata, soluciones EDR/XDR, centralización y correlación de logs, monitoreo de eventos de seguridad, análisis de alertas, investigación inicial de incidentes y actividades de respuesta N1-N2.
+Durante mi trayectoria he participado en la implementación, administración y soporte de plataformas de monitoreo, seguridad e infraestructura, incorporando experiencia práctica en operaciones SOC, administración SIEM, monitoreo de seguridad y análisis de eventos en entornos Windows y Linux.
 
-He participado en la integración de múltiples fuentes de seguridad, fortaleciendo la visibilidad, detección y respuesta mediante el uso de Sysmon, auditd, Windows Event Logs, firewalls FortiGate, Active Directory, Microsoft Entra ID y plataformas de monitoreo e infraestructura.
+He trabajado con tecnologías como Wazuh, Sysmon, auditd, Suricata, EDR/XDR, Active Directory, Microsoft Entra ID, FortiGate y Zabbix, participando en actividades de monitoreo, análisis de alertas, correlación de eventos, gestión de logs e investigación inicial de incidentes.
 
-Actualmente continúo desarrollando capacidades avanzadas en Threat Hunting, Detection Engineering, Incident Response y Purple Team Operations mediante laboratorios prácticos, investigación aplicada y validación de técnicas basadas en MITRE ATT&CK.
+Actualmente continúo fortaleciendo conocimientos y experiencia práctica en Threat Hunting, Detection Engineering, Incident Response y Purple Team Operations mediante laboratorios, investigación aplicada y validación de técnicas basadas en MITRE ATT&CK.
 
-Este repositorio documenta laboratorios, investigaciones, detecciones, procedimientos y proyectos orientados a Blue Team, con el objetivo de demostrar experiencia práctica y desarrollo continuo en ciberseguridad defensiva.
+Este repositorio documenta laboratorios, investigaciones, procedimientos y proyectos orientados a Blue Team, con el objetivo de demostrar experiencia práctica y desarrollo continuo en ciberseguridad defensiva.
 
 ---
 
@@ -46,28 +46,30 @@ Purple Team
 
 ---
 
-# Experiencia Profesional en Ciberseguridad
+# Experiencia Práctica en Operaciones SOC y Seguridad
 
-## SOC Operations
+## Security Monitoring
 
-* Security Monitoring
+* Monitoreo de eventos de seguridad
+* Análisis de alertas
 * Alert Triage
-* Security Investigations
 * Event Correlation
+* Log Analysis
+* Security Investigations
 * Incident Classification
 * Incident Escalation
-* Security Reporting
 * Security Documentation
 
 ## SIEM Administration
 
-* Wazuh Deployment & Administration
-* Agent Management
-* Rule Management
-* Log Collection & Centralization
-* Dashboard Administration
-* API Integrations
-* Security Event Correlation
+* Administración de Wazuh
+* Gestión de agentes
+* Gestión de reglas
+* Dashboards
+* Centralización de logs
+* Integración mediante Syslog
+* Integración mediante APIs
+* Correlación de eventos
 
 ## Detection & Response
 
@@ -75,7 +77,7 @@ Purple Team
 * Linux auditd Monitoring
 * Windows Event Analysis
 * Linux Log Analysis
-* Suricata IDS/IPS Administration
+* Suricata IDS/IPS
 * EDR/XDR Operations
 * Initial Incident Response
 * Basic Containment Activities
@@ -83,20 +85,21 @@ Purple Team
 ## Infrastructure Security
 
 * Hardening
-* Network Segmentation
-* FortiGate Administration
-* SSL/IPSec VPN
+* Segmentación de red
+* Administración FortiGate
+* VPN SSL/IPSec
 * Active Directory
 * Microsoft Entra ID
 * IAM
 * Exchange Online
-* Microsoft 365 Security
+* Microsoft 365
 
 ## Security Frameworks
 
+* MITRE ATT&CK
 * ISO/IEC 27001
 * NIST Cybersecurity Framework
-* Ley Marco de Ciberseguridad " N° 21.663 "
+* Ley Marco de Ciberseguridad
 
 ---
 
