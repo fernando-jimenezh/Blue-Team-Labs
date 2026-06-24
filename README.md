@@ -1,8 +1,6 @@
-# Blue-Team-Labs
+# Blue Team Security Operations Portfolio
 
-**SOC Operations | SIEM Administration | Threat Hunting | Detection Engineering | Incident Response | Purple Team**
-
-Practical cybersecurity laboratories focused on defensive security, security monitoring, threat hunting, detection engineering, incident response and purple team validation.
+**SOC Operations | Threat Hunting | Detection Engineering | Incident Response | Purple Team**
 
 ---
 
@@ -10,18 +8,9 @@ Practical cybersecurity laboratories focused on defensive security, security mon
 
 IT professional with more than 15 years of experience in infrastructure, networking, technical support and systems administration.
 
-Currently working in defensive cybersecurity, security monitoring and SOC operations, with hands-on experience in:
+Currently transitioning and specializing in defensive cybersecurity, with a strong focus on Security Operations, Threat Hunting, Detection Engineering and Incident Response.
 
-* SIEM Administration
-* Security Monitoring
-* Security Event Analysis
-* Alert Triage
-* Log Correlation
-* Endpoint Security
-* Initial Incident Response
-* Windows and Linux Security Monitoring
-
-This repository documents my practical laboratories, investigations, detections, use cases and continuous learning journey toward advanced Blue Team roles.
+This repository documents my professional journey, practical laboratories, technical investigations and continuous learning path toward advanced Blue Team roles.
 
 ---
 
@@ -36,7 +25,7 @@ Technical Support (N1 / N2 / N3)
 ↓
 Systems Administration
 ↓
-SOC Operations
+Security Operations
 ↓
 Threat Hunting
 ↓
@@ -49,9 +38,53 @@ Purple Team
 
 ---
 
-# Technologies
+# Current Focus
 
-## SIEM & Security Monitoring
+* Security Operations Center (SOC)
+* Security Monitoring
+* Threat Hunting
+* Detection Engineering
+* Incident Investigation
+* Security Event Analysis
+* Alert Triage
+
+---
+
+# Professional Roadmap
+
+## Completed
+
+✔ Infrastructure
+
+✔ Networking
+
+✔ Technical Support
+
+✔ Systems Administration
+
+## Current Stage
+
+◉ Security Operations (SOC)
+
+◉ Threat Hunting
+
+◉ Detection Engineering
+
+## Next Stage
+
+○ Incident Response
+
+○ Threat Intelligence
+
+## Long-Term Goal
+
+○ Purple Team Operations
+
+---
+
+# Core Technologies
+
+## Security Monitoring
 
 * Wazuh
 * Splunk (Labs)
@@ -62,9 +95,9 @@ Purple Team
 ## Detection & Response
 
 * Suricata IDS/IPS
+* Sigma Rules
 * WithSecure EDR/XDR
 * ESET Protect
-* Sigma Rules
 
 ## Security Operations
 
@@ -72,46 +105,62 @@ Purple Team
 * Cortex
 * MITRE ATT&CK
 
-## Network Security
-
-* FortiGate
-* Wireshark
-* Tcpdump
-* Nmap
-
 ## Identity & Access Management
 
 * Active Directory
 * Microsoft Entra ID
 
-## Infrastructure
+## Infrastructure & Networking
 
 * Windows Server
 * Ubuntu Linux
 * VMware
+* FortiGate
 * Zabbix
-
-## Purple Team
-
-* MITRE Caldera
-* Atomic Red Team
 
 ---
 
-# Lab Portfolio
+# Repository Structure
 
-## SOC
+* Laboratories
+* Knowledge Base
+* Diagrams
+* Resources
 
-* Asset Discovery
-* Sysmon Telemetry Validation
-* Windows Event Analysis
-* Wazuh Operations
-* Security Monitoring
+---
+
+# Featured Areas
+
+## SOC Operations
+
+Security monitoring, event analysis and alert triage.
 
 ## Threat Hunting
 
-* Network Discovery Hunting
-* LOLBins Hunting
-* DNS Hunting
-* Persistence Hunting
-* Windows Telemetry Hunting
+Threat hunting investigations using Windows and Linux telemetry.
+
+## Detection Engineering
+
+Detection use cases, Sigma rules and security analytics.
+
+## Incident Response
+
+Investigation workflows, containment procedures and response methodologies.
+
+## Purple Team
+
+Adversary simulation validation and defensive control improvement.
+
+---
+
+# Knowledge Base
+
+The Knowledge Base contains detailed technical documentation, methodologies, notes, references and research developed throughout my cybersecurity learning journey.
+
+---
+
+# Continuous Learning
+
+Cybersecurity is a continuous process of learning, validation and improvement.
+
+This repository reflects both my current capabilities and the skills I am actively developing as part of my professional growth in Blue Team operations.
