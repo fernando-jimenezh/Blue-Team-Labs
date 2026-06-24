@@ -1,186 +1,202 @@
 # Professional Background
 
-## Professional Summary
+## Resumen Profesional
 
-IT professional with more than 15 years of experience in infrastructure, networking, technical support and systems administration.
+Profesional TI con más de 15 años de experiencia en infraestructura, redes, soporte técnico y administración de sistemas.
 
-Throughout my career, I have been responsible for the deployment, administration, monitoring and support of IT environments, including servers, networks, endpoint devices and enterprise services.
+Durante mi trayectoria he participado en la implementación, administración, soporte y monitoreo de plataformas tecnológicas en entornos corporativos, adquiriendo experiencia en continuidad operacional, administración de servicios, seguridad de infraestructura y gestión de incidentes.
 
-In recent years, I have expanded my professional focus toward defensive cybersecurity, security monitoring and SOC operations, applying security controls, monitoring technologies and incident management processes within production environments.
+En los últimos años he complementado esta experiencia con actividades relacionadas con monitoreo de seguridad, administración SIEM y operaciones SOC, fortaleciendo capacidades de análisis, detección e investigación de eventos de seguridad.
 
 ---
 
-# Infrastructure & Networking
+# Infraestructura y Redes
 
-## Core Responsibilities
+Experiencia en administración, soporte y monitoreo de infraestructura tecnológica, asegurando disponibilidad, conectividad y continuidad operacional.
 
-* LAN/WAN Administration
-* Network Troubleshooting
-* Firewall Administration
-* VPN Connectivity
-* Network Segmentation
-* Infrastructure Monitoring
-* Hardware Deployment
-* Network Services Administration
-* Connectivity Management
+## Principales actividades
 
-## Technologies
+* Administración de infraestructura TI.
+* Implementación y soporte de redes corporativas.
+* Administración de VLAN.
+* Configuración y soporte de VPN SSL/IPSec.
+* Gestión de servicios de red.
+* Administración de firewall FortiGate.
+* Segmentación de red mediante ACL y políticas de seguridad.
+* Monitoreo de disponibilidad y rendimiento.
+
+## Tecnologías
 
 * FortiGate
-* TCP/IP
+* VLAN
+* VPN SSL/IPSec
+* ACL
 * DNS
 * DHCP
-* VPN
-* Routing & Switching
-* Network Monitoring
+* TCP/IP
 
 ---
 
-# Technical Support
+# Soporte Técnico y Administración de Sistemas
 
-## Core Responsibilities
+Experiencia en soporte técnico multinivel y administración de plataformas Microsoft y Linux.
 
-* Remote Support
-* On-Site Support
-* N1 / N2 / N3 Troubleshooting
-* Incident Management
-* Service Requests
-* User Support
-* Hardware Support
-* Software Support
-* Technical Documentation
+## Principales actividades
 
-## Key Activities
+* Soporte Técnico N1, N2 y N3.
+* Gestión de incidentes y requerimientos.
+* Administración de servidores Windows.
+* Administración Linux.
+* Gestión de usuarios y permisos.
+* Implementación de hardening.
+* Documentación técnica.
+* Continuidad operacional.
 
-* Root cause analysis
-* Escalation management
-* User assistance
-* Endpoint troubleshooting
-* Service continuity support
-
----
-
-# Systems Administration
-
-## Core Responsibilities
-
-* Windows Server Administration
-* Linux Administration
-* Active Directory Management
-* Microsoft Entra ID Administration
-* Group Policy Administration
-* User and Access Management
-* Hardening
-* Backup and Recovery
-* Virtualization Management
-
-## Technologies
+## Tecnologías
 
 * Windows Server
 * Ubuntu Linux
 * Active Directory
 * Microsoft Entra ID
+* Exchange Online
+* Microsoft 365
 * VMware
-* Zabbix
 
 ---
 
-# SOC Operations
+# Monitoreo y Operaciones de Seguridad
 
-## Core Responsibilities
+Participación en actividades de monitoreo de seguridad, análisis de eventos y administración de herramientas orientadas a la detección de amenazas.
 
-* Security Monitoring
-* Alert Triage
-* Event Correlation
-* Log Analysis
-* Security Investigations
-* Threat Detection
-* Security Reporting
-* Security Documentation
-* Security Control Validation
+## Principales actividades
 
-## Key Activities
-
-* Analysis of Windows security events
-* Analysis of Linux security events
-* Investigation of security alerts
-* Identification of suspicious activity
-* Validation and classification of incidents
-* Escalation of security events
-* Monitoring of defensive security controls
+* Security Monitoring.
+* Análisis de alertas.
+* Event Correlation.
+* Log Analysis.
+* Security Event Analysis.
+* Investigación inicial de eventos.
+* Clasificación y validación de alertas.
+* Escalamiento de incidentes.
+* Documentación de actividades de seguridad.
 
 ---
 
 # SIEM Administration
 
-## Core Responsibilities
+Experiencia práctica en implementación, administración y operación de plataformas SIEM para monitoreo y centralización de eventos de seguridad.
 
-* SIEM Deployment and Administration
-* Log Collection and Centralization
-* Agent Management
-* Security Rule Management
-* Dashboard Management
-* Event Correlation
-* Security Visibility Improvement
+## Principales actividades
 
-## Technologies
+* Administración de Wazuh.
+* Gestión de agentes.
+* Gestión de reglas.
+* Administración de dashboards.
+* Integración de fuentes de logs.
+* Correlación de eventos.
+* Centralización de registros.
+* Integraciones mediante Syslog y APIs.
+
+## Tecnologías
 
 * Wazuh
 * Syslog
-* API Integrations
-* Security Dashboards
+* APIs
+* Windows Event Logs
+* Linux Logs
 
 ---
 
 # Detection & Response
 
-## Core Responsibilities
+Participación en actividades de detección y respuesta inicial ante eventos de seguridad.
 
-* Endpoint Monitoring
-* IDS/IPS Monitoring
-* EDR/XDR Monitoring
-* Security Event Analysis
-* Initial Containment Support
-* Incident Escalation
+## Principales actividades
 
-## Technologies
+* Monitoreo Sysmon.
+* Monitoreo auditd.
+* Análisis de eventos Windows.
+* Análisis de eventos Linux.
+* Administración Suricata IDS/IPS.
+* Monitoreo EDR/XDR.
+* Investigación inicial de incidentes.
+* Contención básica.
+* Escalamiento y seguimiento.
+
+## Tecnologías
 
 * Sysmon
-* Linux auditd
+* auditd
 * Suricata IDS/IPS
-* WithSecure EDR/XDR
+* WithSecure Elements EDR/XDR
 * ESET Protect
 
 ---
 
-# Security Frameworks & Methodologies
+# Gestión de Identidades y Accesos
 
-## Experience Working With
+Experiencia en administración de identidades, permisos y servicios corporativos.
 
-* MITRE ATT&CK
-* ISO 27001
-* NIST Cybersecurity Framework
+## Principales actividades
 
-## Activities
-
-* Security control implementation
-* Security monitoring processes
-* Risk reduction initiatives
-* Continuous improvement of security controls
-* Security documentation and procedures
+* Administración de Active Directory.
+* Gestión de usuarios y grupos.
+* Administración de GPO.
+* Microsoft Entra ID.
+* IAM.
+* Gestión de accesos.
+* Control de privilegios.
 
 ---
 
-# Current Professional Development
+# Monitoreo de Infraestructura
 
-The following areas are being continuously developed through practical laboratories and hands-on projects:
+Implementación y administración de soluciones de monitoreo para servicios e infraestructura.
+
+## Tecnologías
+
+* Zabbix
+
+## Principales actividades
+
+* Monitoreo de disponibilidad.
+* Alertamiento.
+* Supervisión de servicios.
+* Seguimiento de capacidad.
+* Soporte a continuidad operacional.
+
+---
+
+# Marcos y Buenas Prácticas
+
+Experiencia participando en actividades alineadas con estándares y marcos de referencia de seguridad.
+
+## Conocimientos y aplicación práctica
+
+* MITRE ATT&CK
+* ISO/IEC 27001
+* NIST Cybersecurity Framework
+* Ley Marco de Ciberseguridad
+
+## Actividades
+
+* Aplicación de controles de seguridad.
+* Gestión de riesgos.
+* Cumplimiento normativo.
+* Documentación de procedimientos.
+* Mejora continua de controles.
+
+---
+
+# Desarrollo Profesional Continuo
+
+Actualmente continúo fortaleciendo experiencia práctica mediante laboratorios y proyectos orientados a:
 
 * Threat Hunting
 * Detection Engineering
 * Incident Response
 * Purple Team Operations
-* Adversary Emulation
 * Detection Validation
-* Threat-Informed Defense
+* Adversary Emulation
 
-This portfolio serves as evidence of that continuous learning process and practical skill development.
+Estos conocimientos complementan mi experiencia previa en infraestructura, administración de sistemas y operaciones de seguridad, permitiéndome desarrollar un perfil cada vez más orientado a Blue Team.
